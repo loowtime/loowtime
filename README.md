@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # 🛡️ CYBER RISK & SECURITY
 
@@ -7,8 +6,8 @@
 
 *Understanding Risk. Identifying Threats. Building Resilience.*
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/loowtime)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loowtime)
 
 </div>
 
@@ -16,8 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Interested in the intersection of Cybersecurity,
-IT Risk Management and Ethical Hacking.
+Interested in the intersection of **Cybersecurity, IT Risk Management, and Ethical Hacking**.
 
 - 🛡️ Cyber Risk Management
 - 🔐 Ethical Hacking & Vulnerability Assessment
@@ -27,39 +25,38 @@ IT Risk Management and Ethical Hacking.
 
 ---
 
-
-## 📊 GitHub Analytics
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=loowtime&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=loowtime&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=loowtime&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=loowtime&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=loowtime&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=loowtime&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 🟢 Hack The Box Statistics
+## 🟢 Hack The Box
 
 <div align="center">
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-View_Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/users/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2](https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-View_Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2)
 
 </div>
 
-**Practical Security Focus**
+### Practical Security Focus
 
 - Linux & System Security
 - Network Security
 - Web Application Security
 - Vulnerability Assessment
 - Capture The Flag (CTF)
+- Penetration Testing Fundamentals
 
 ---
 
@@ -67,12 +64,12 @@ IT Risk Management and Ethical Hacking.
 
 | Domain | Focus |
 |---|---|
-| ISO 27001 | Information Security |
+| ISO 27001 | Information Security Management |
 | NIST CSF | Cybersecurity Framework |
 | Risk Assessment | Risk Identification & Evaluation |
-| Risk Treatment | Mitigation & Controls |
-| Vulnerability Management | Security Weaknesses |
-| Governance | Policies & Compliance |
+| Risk Treatment | Mitigation Strategies & Controls |
+| Vulnerability Management | Security Weakness Identification |
+| Governance | Policies, Standards & Compliance |
 
 ---
 
@@ -82,7 +79,7 @@ IT Risk Management and Ethical Hacking.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-2563EB?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge)
@@ -94,9 +91,9 @@ IT Risk Management and Ethical Hacking.
 ## 🎯 Current Focus
 
 - Cyber Risk Assessment
-- Ethical Hacking
-- ISO 27001 & NIST CSF
-- Security Governance
+- Ethical Hacking & Penetration Testing
+- ISO 27001 & NIST Cybersecurity Framework
+- Security Governance & Compliance
 - Vulnerability Management
 - Technical Security Analysis
 
