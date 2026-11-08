@@ -43,24 +43,6 @@ IT Risk Management and Ethical Hacking.
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loowtime&theme=tokyo-night&hide_border=true)](https://github.com/loowtime)
-
-</div>
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loowtime&theme=tokyo-night&hide_border=true)](https://github.com/loowtime)
-
-</div>
-
-
 ---
 
 ## 🟢 Hack The Box Statistics
