@@ -27,17 +27,27 @@ IT Risk Management and Ethical Hacking.
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=loowtime&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=loowtime&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loowtime&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loowtime&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=loowtime&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=loowtime&theme=tokyonight&hide_border=true" width="95%" />
 
 </div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loowtime&theme=tokyo-night&hide_border=true)](https://github.com/loowtime)
+
+</div>
+
 
 ---
 
