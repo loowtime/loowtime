@@ -7,7 +7,7 @@
 
 *Understanding Risk. Identifying Threats. Building Resilience.*
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2])]))
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2])
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/loowtime)
 
 </div>
