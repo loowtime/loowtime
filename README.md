@@ -7,7 +7,7 @@
 
 *Understanding Risk. Identifying Threats. Building Resilience.*
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/users/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2](https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/loowtime)
 
 </div>
@@ -49,7 +49,7 @@ IT Risk Management and Ethical Hacking.
 
 <div align="center">
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-View_Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-View_Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/users/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2](https://profile.hackthebox.com/profile/01a1ac6b-bdc4-7188-a5ce-91cda126d7e2)
 
 </div>
 
@@ -106,6 +106,6 @@ IT Risk Management and Ethical Hacking.
 
 ### IDENTIFY RISK. UNDERSTAND THREATS. STRENGTHEN SECURITY.
 
-![Profile Views](https://komarev.com/ghpvc/?username=DEIN_USERNAME&color=2563EB&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=loowtime&color=2563EB&style=flat-square)
 
 </div>
